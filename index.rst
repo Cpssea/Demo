@@ -21,8 +21,8 @@ Welcome to Demo's documentation!
    
    new/new1.rst
 
-Indices and tables
-==================
+Indices and tables mmmm
+============================
 
 * :ref:`genindex`
 * :ref:`modindex`
